@@ -1,0 +1,2 @@
+TransactionID,CustomerID,ProductID,Amount,Date
+T001,C001,P001,100,2023-10-05

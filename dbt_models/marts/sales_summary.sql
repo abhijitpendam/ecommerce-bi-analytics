@@ -1,0 +1,1 @@
+-- Mart model for sales summary
